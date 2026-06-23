@@ -38,6 +38,6 @@ Se construyó un reporte indexado dinámicamente con las siguientes métricas cl
 ## Vista del Entregable
 Aquí se puede apreciar el reporte:
 
-![Dashboard]<img width="1522" height="575" alt="dashboard_preview" src="https://github.com/user-attachments/assets/cc267882-5931-44d0-923b-b15429d21b99" />
+<img width="1522" height="575" alt="dashboard_preview" src="https://github.com/user-attachments/assets/cc267882-5931-44d0-923b-b15429d21b99" />
 
 ---
