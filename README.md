@@ -38,6 +38,6 @@ Se construyó un reporte indexado dinámicamente con las siguientes métricas cl
 ## Vista del Entregable
 Aquí se puede apreciar el reporte:
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard](screenshots/dashboard_preview.png)
 
 ---
